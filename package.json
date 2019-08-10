@@ -1,0 +1,26 @@
+{
+  "name": "@snowdreamtech/jweixin-promise",
+  "version": "0.1.0",
+  "description": "微信wechat-js-sdk官方包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowdreamtech/jweixin-promise.git"
+  },
+  "keywords": [
+    "\"微信JS\"",
+    "\"SDK\"",
+    "\"官方包\"",
+    "\"wechat-js-sdk\"",
+    "\"WEIXIN-JS-SDK\""
+  ],
+  "author": "snowdream <sn0wdr1am@icloud.com>",
+  "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/snowdreamtech/jweixin-promise/issues"
+    },
+    "homepage": "https://github.com/snowdreamtech/jweixin-promise#readme"
+}

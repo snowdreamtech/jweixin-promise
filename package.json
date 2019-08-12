@@ -1,6 +1,6 @@
 {
   "name": "@snowdreamtech/jweixin-promise",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "微信wechat-js-sdk官方包",
   "main": "index.js",
   "scripts": {

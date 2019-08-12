@@ -7,6 +7,7 @@
 
 ### 安装
 ```
+npm install @snowdreamtech/jweixin --save
 npm install @snowdreamtech/jweixin-promise --save
 ```
 
